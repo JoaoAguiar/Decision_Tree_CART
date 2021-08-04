@@ -1,4 +1,4 @@
-# Decision_Tree_CART_and_Naive_Bayes
+# Decision Tree CART and Naive Bayes
 
 Application of Machine Learning methods (CART and Naive Bayes) in the context of a study carried out by Columbia University where data on participants in experimental speed dating events were collected.
 
